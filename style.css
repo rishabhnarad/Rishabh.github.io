@@ -1,0 +1,32 @@
+body {
+margin: 0px;
+font-family: 'Epilogue', sans-serif;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: green;
+border-width: 9px;
+width: 9%;
+}
+
+.First-block {
+  background-color: #f8f7de;
+  text-align: center;
+  padding: 40px;
+}
+
+.headings {
+  font-size: 50px;
+font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid {
+  background-color: #f8f7de;
+  padding: 5% 10%;
+  text-align: center;
+}
+.images {
+  padding: 25px;
+}
